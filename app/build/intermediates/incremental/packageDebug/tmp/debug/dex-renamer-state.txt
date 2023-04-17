@@ -1,0 +1,4 @@
+#Mon Apr 17 14:43:07 IST 2023
+base.0=C\:\\Users\\Anonymous\\StudioProjects\\Health-Tracker\\Healthy Diet\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
